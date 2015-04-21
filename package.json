@@ -1,6 +1,6 @@
 {
   "name": "testdep",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "test dep for npm install bug",
   "main": "index.js",
   "scripts": {
