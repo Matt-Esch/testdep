@@ -1,0 +1,19 @@
+{
+  "name": "testdep",
+  "version": "8.0.0",
+  "description": "test dep for npm install bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Matt-Esch/testdep.git"
+  },
+  "author": "Matt Esch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matt-Esch/testdep/issues"
+  },
+  "homepage": "https://github.com/Matt-Esch/testdep#readme"
+}
